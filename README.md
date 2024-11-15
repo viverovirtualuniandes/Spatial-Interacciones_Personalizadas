@@ -1,5 +1,3 @@
-# Spatial-Interacciones_Personalizadas
-
 <h1 align="center">
 
 ![MIXR_Desarrollo_metaversos_todos_BANNER_V3](https://github.com/user-attachments/assets/5b40455c-24e6-45b5-95f8-aec3d1899d15)
