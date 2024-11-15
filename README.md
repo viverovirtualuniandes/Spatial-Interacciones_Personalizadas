@@ -15,7 +15,7 @@
 <br>
 
 ## :pencil: Descripción ##
-Este repositorio alberga el proyecto de Spatial con interacciones personalizadas. Entre las funcionalidades destacadas se encuentran: encender una luz al acercarte a una zona específica, activar una animación al aproximarte a las flores decorativas del espacio, y cambiar el color de la mascota de Vivero Virtual al interactuar mediante un botón o tecla. Además, puedes explorar el metaverso publicado en Spatial a través del siguiente enlace.
+Este repositorio contiene el proyecto de Spatial con interacciones personalizadas. Entre las funcionalidades se encuentran: encender una luz al acercarte a una zona específica, activar una animación al aproximarte a las flores decorativas del espacio, y cambiar el color de la mascota de Vivero Virtual al interactuar mediante un botón o tecla. Además, puedes explorar el metaverso publicado en Spatial a través del siguiente enlace.
 
 Metaverso en Spatial: https://www.spatial.io/s/Vivero-Virtual-Interacciones-Personalizadas-6736b5a004c2479ff36e7bda?share=4097621545568054080
 
